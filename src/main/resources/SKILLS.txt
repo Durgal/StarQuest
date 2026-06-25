@@ -1,0 +1,10 @@
+MELEE [combat prowess using close-quarters weaponry] <POWER>
+BLOCK [ability to defend against attacks and mitigate damage using armor] <POWER>
+RANGED [skill in long range combat with firearms or bows] <AGILITY>
+STEALTH [ability to steal, or conceal oneself from others] <AGILITY>
+MEDICINE [knowledge and expertise in healing and providing medical care] <VITALITY>
+SURVIVAL [ability to thrive in harsh environments, find resources, and adapt to changing conditions] <VITALITY>
+TECHNOLOGY [understanding and proficiency in technological applications] <LOGIC>
+LORE [knowledge and wisdom acquired through study, research, and exploration of history, science, and cultural topics] <LOGIC>
+WILLPOWER [inner strength, mental resilience, and determination to overcome challenges and resist manipulation or coercion] <SPIRIT>
+INFLUENCE [ability to persuade, lead, negotiate, and interact with others effectively, leveraging charisma and interpersonal skills] <SPIRIT>

@@ -1,0 +1,11 @@
+NAME       ATT_PLUS  ATT_NEG  SKILL_PLUS  SKILL_NEG
+Veteran    Power     Logic    Melee       Lore
+Zealot     Power     Agility  Influence   Stealth
+Vanguard   Agility   Vitality Ranged      Willpower
+Nomad      Agility   Spirit   Stealth     Influence
+Warden     Vitality  Logic    Block       Ranged
+Survivor   Vitality  Spirit   Survival    Block
+Technician Logic     Power    Technology  Medicine
+Scholar    Logic     Vitality Lore        Survival
+Oracle     Spirit    Power    Willpower   Technology
+Medic      Spirit    Agility  Medicine    Melee

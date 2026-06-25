@@ -1,0 +1,42 @@
+package src.main.java.text_based_mechanics.parts_of_speech.adjective;
+
+import src.main.java.text_based_mechanics.parts_of_speech.Adjective;
+
+    public enum Age {
+        AGELESS,
+        AGE_OLD,
+        ANTIQUATED,
+        ANTIQUE,
+        ARCHAIC,
+        BIENNIAL,
+        BIMONTHLY,
+        CENTENARY,
+        CYCLICAL,
+        DAY_TO_DAY,
+        DIURNAL,
+        ELDERLY,
+        ETERNAL,
+        EVERLASTING,
+        EVERYDAY,
+        HOURLY,
+        LATE,
+        LONG_LASTING,
+        LONG_LIVED,
+        MIDDLE_AGED,
+        MIDWEEK,
+        MONTHLY,
+        NIGHTTIME,
+        OLD,
+        OLDEN,
+        OLD_FASHIONED,
+        OLD_TIME,
+        OLE,
+        QUADRENNIAL,
+        QUARTERLY,
+        SHORT_LIVED,
+        YEARLY,
+        YEAR_ROUND,
+        YOUNG,
+        YOUNGISH,
+        YOUTHFUL
+    }

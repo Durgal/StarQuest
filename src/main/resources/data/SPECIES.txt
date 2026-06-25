@@ -1,0 +1,8 @@
+NAME      SIZE   PHYSIQUE TYPE      MATERIAL POWER AGILITY VITALITY LOGIC SPIRIT LUCK
+HUMAN     MEDIUM AVERAGE  HUMANOID  SKIN     1     1       1        1     1      1
+GUARDIAN  LARGE  SLENDER  PLANT     WOOD     0     1       3        0     2      0
+IGNEOS    MEDIUM HEAVY    ELEMENTAL ROCK     3     0       2        1     0      0
+PROTOZOAN SMALL  AVERAGE  UNKNOWN   PHOTON   0     2       0        1     3      0
+ARKON     MEDIUM MUSCULAR ABYSSAL   SKIN     2     0       0        3     1      0
+NUMERIAN  MEDIUM SLENDER  CONSTRUCT IRON     0     3       1        2     0      0
+OKAMI     LARGE  HEAVY    BEAST     FUR      1     0       2        0     3      0
